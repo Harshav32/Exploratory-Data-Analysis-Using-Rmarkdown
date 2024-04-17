@@ -1,0 +1,11 @@
+---
+title: "Kasireddy_ALY6000Project2"
+author: "Harsha vardhan reddy Kasireddy"
+date: "2023-10-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
